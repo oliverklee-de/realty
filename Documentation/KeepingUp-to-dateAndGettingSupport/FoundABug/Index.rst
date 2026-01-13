@@ -18,7 +18,7 @@ Found a bug?
 
 If you find any bugs or would like to propose a feature, please
 report the issue in the issue tracker:
-https://github.com/oliverklee/ext-realty/issues
+https://github.com/oliverklee-de/realty/issues
 Make sure to provide the following data
 when reporting a bug:
 

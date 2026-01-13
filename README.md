@@ -1,6 +1,6 @@
 # Realty TYPO3 extension
 
-[![GitHub CI Status](https://github.com/oliverklee/ext-realty/workflows/CI/badge.svg?branch=main)](https://github.com/oliverklee/ext-realty/actions)
+[![GitHub CI Status](https://github.com/oliverklee-de/realty/workflows/CI/badge.svg?branch=main)](https://github.com/oliverklee-de/realty/actions)
 [![Latest Stable Version](https://poser.pugx.org/oliverklee/realty/v/stable.svg)](https://packagist.org/packages/oliverklee/realty)
 [![Total Downloads](https://poser.pugx.org/oliverklee/realty/downloads.svg)](https://packagist.org/packages/oliverklee/realty)
 [![Latest Unstable Version](https://poser.pugx.org/oliverklee/realty/v/unstable.svg)](https://packagist.org/packages/oliverklee/realty)
